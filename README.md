@@ -4,12 +4,12 @@ It is a website that is madeup and NOT real it has fake button but if you want y
 
 # How to run?
 
-npm install
+Delete node_modules
 
-Run the html file
+Run npm install
 
-# How to make changes?
+Run the HTML file
 
-npm run watch
+# How to edit?
 
-and every time you do something if you save it. It will automaticlly update.
+Run npm run watch
